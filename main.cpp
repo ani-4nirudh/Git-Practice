@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Version 1" << std::endl;
+    std::cout << "Version 2" << std::endl;
     
     return EXIT_SUCCESS;
 }
