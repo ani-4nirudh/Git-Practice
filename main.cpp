@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Version 7 : From cloned version of the remote repo" << std::endl;
+    std::cout << "Version 8 : Bug Fix." << std::endl;
     
     return EXIT_SUCCESS;
 }
