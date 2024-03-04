@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Feature 2" << std::endl;
+    std::cout << "Version 10 : Bug Fix" << std::endl;
     
     return EXIT_SUCCESS;
 }
