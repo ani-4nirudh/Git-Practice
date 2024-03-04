@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Version 1 branched" << std::endl;
+    std::cout << "Feature 1" << std::endl;
     
     return EXIT_SUCCESS;
 }
