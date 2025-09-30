@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Version 12: Signed off commit. " << std::endl;
+    std::cout << "Version 13: Using tags" << std::endl;
     
     return EXIT_SUCCESS;
 }
