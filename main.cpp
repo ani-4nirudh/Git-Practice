@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Version 14: Publishing wrong code in the repo" std::endl;
+    std::cout << "Version 14: Using tags" << std::endl;
     
     return EXIT_SUCCESS;
 }
